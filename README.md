@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development and gamedev (Unity).
 
-:hammer: Current position: Senior Frontend Developer (Angular) in Itransition Software.
+:hammer: Current position: Senior Frontend Developer (Angular) in Go NET.
 
 :computer: Technologies: Angular, Node.JS, GraphQL, React
 
