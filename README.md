@@ -8,4 +8,4 @@
 
 📫 How to reach me:
 - Telegram: @Shatiger1337
-- E-mail: shatiger@ya.ru
+- E-mail: i.am.shatiger@gmail.com
